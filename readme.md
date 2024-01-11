@@ -4,7 +4,10 @@
 
 关注公众号： **程序员王不二**，回复关键词  ：**员工** ，获取完整版源码
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
+
+# 基于SSM的员工信息管理系统（含文档）
 
 ## 1、项目介绍
 
@@ -31,25 +34,18 @@
 
 ### 4.1 功能模块
 
-![所有员工信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142002799.jpg)
+![所有员工信息](https://www.codeshop.fun/Typora-Images/202207142002799.jpg)
 
-![添加员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142002209.jpg)
+![添加员工](https://www.codeshop.fun/Typora-Images/202207142002209.jpg)
 
-![编辑员工信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142002715.jpg)
+![编辑员工信息](https://www.codeshop.fun/Typora-Images/202207142002715.jpg)
 
-![查询员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142003119.jpg)
+![查询员工](https://www.codeshop.fun/Typora-Images/202207142003119.jpg)
 
 ### 4.2 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142002729.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202207142002729.jpg)
 
-## 5、视频演示
-
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**员工** ，获取完整版源码
 
 
 
